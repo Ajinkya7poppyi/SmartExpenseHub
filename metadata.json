@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Hub",
+  "description": "An application to process, review, and export transaction records from Excel files using local, rule-based logic. No AI models are used.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
